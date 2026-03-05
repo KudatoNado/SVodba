@@ -1,0 +1,25 @@
+{
+  "name": "svodba",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KudatoNado/SVodba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KudatoNado/SVodba/issues"
+  },
+  "homepage": "https://github.com/KudatoNado/SVodba#readme",
+  "description": "",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "msnodesqlv8": "^5.1.5",
+    "mssql": "^12.2.0"
+  }
+}

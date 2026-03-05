@@ -1,0 +1,8 @@
+body{
+    
+}
+
+.gg{
+    display: flex;
+    flex-direction: column;
+}
